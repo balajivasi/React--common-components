@@ -1,1 +1,1 @@
-export { default as YourComponent } from './Alert'
+export { default as Alert } from './Alert'

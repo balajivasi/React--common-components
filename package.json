@@ -3,6 +3,10 @@
   "version": "0.1.1",
   "main": "lib/index.js",
   "private": false,
+  "author": "Balaji Vasi",
+  "repository":{
+    "git":"https://github.com/balajivasi/React--common-components.git"
+  },
   "dependencies": {
     "autoprefixer": "7.1.6",
     "babel-core": "6.26.0",

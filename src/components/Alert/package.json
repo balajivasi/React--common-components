@@ -1,5 +1,5 @@
 {
 "private": false,
 "name": "Alert",
-"main": "./alert.js"
+"main": "./index.js"
 }
